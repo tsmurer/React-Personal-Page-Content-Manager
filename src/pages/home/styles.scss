@@ -1,0 +1,15 @@
+.root {
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+}
+
+.buttons-row {
+    margin-bottom: 10px; 
+}
+
+.main-menu-wrapper {
+    display: grid;
+    place-items: center;
+    height: 100vh; /* or whatever container height */
+}

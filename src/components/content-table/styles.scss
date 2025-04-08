@@ -1,0 +1,11 @@
+.icons {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+
+    > * {
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}
